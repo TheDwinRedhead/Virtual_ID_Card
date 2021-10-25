@@ -1,8 +1,7 @@
 const linksSocialMedia = {
   github: 'TheDwinRedhead',
   facebook: 'Davi.Kunzendorff',
-  //Davi.Kunzendorff
-  instagram: 'kunzendorff_davi'
+  instagram: 'kunzendorff_davi',
 }
 
 function changeSocialMediaLinks() {
